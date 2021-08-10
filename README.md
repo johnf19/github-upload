@@ -1,1 +1,1 @@
-# github-upload
+# My Java practice projects 
